@@ -7,3 +7,4 @@ A simple C++ project for practicing Git undo commands.
 - Prints the project name.
 - Prints student grades.
 - Prints student status.
+- new line.
